@@ -1,3 +1,10 @@
-theme: minima
-title: Mi Blog
-author: Dialberth
+title: "Dialberth Ayala | Negocios & Tecnología"
+description: "Bitácora sobre finanzas, desarrollo web, aprendizaje continuo y visión empresarial."
+url: "https://Dialberth.github.io" 
+baseurl: "/blog" 
+
+
+remote_theme: "just-the-docs/just-the-docs"
+
+plugins:
+  - jekyll-remote-theme

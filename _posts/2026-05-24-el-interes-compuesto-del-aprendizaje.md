@@ -4,6 +4,7 @@ title: "El interés compuesto del que nadie habla: Aprendizaje autodidacta en lo
 date: 2026-05-25
 categories: [Negocios, Mentalidad]
 tags: [Autodidacta, Inversiones, Storytelling]
+nav_exclude: true # Esto evita que el artículo sature la barra de menú principal
 ---
 
 # El interés compuesto del que nadie habla: Por qué el aprendizaje autodidacta es la mejor ventaja competitiva en los negocios
