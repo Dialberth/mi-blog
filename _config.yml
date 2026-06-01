@@ -1,10 +1,7 @@
 title: "Dialberth Ayala | Negocios & Tecnología"
 description: "Bitácora sobre finanzas, desarrollo web, aprendizaje continuo y visión empresarial."
 url: "https://Dialberth.github.io"
-baseurl: "/blog" 
+baseurl: "/blog"
 
-
-remote_theme: "just-the-docs/just-the-docs"
-
-plugins:
-  - jekyll-remote-theme
+# Usamos un tema nativo de GitHub que no requiere plugins para validar que todo conecte
+theme: jekyll-theme-cayman
